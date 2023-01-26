@@ -1,0 +1,14 @@
+.cart{
+    position: sticky;
+    top: 0; 
+}
+.random-number{
+    background-color:cornflowerblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 157, 0);
+}
+.random-number:hover{
+    background: linear-gradient(97.64deg,#eaaaff 15.56%,#b5acff 92.85%);
+}

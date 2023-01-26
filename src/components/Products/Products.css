@@ -6,6 +6,13 @@
  border: 5px solid skyblue;
  border-radius: 5px;
 }
+.btn-cart{
+    margin: 5px;
+}
+.btn-cart:hover{
+    background-color: goldenrod;
+
+}
 .product{
     border: 1px solid rebeccapurple;
 }
